@@ -1,8 +1,10 @@
 import React from 'react'
-import Main from './Components/Netflix/Main'
+import Main from './Components/Portfolio/Pages/Main'
 const App = () => {
   return (
-    <div><Main/></div>
+    <div>
+    <Main/>
+    </div>
   )
 }
 
